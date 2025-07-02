@@ -14,7 +14,7 @@
             "flags": {}
         }
     ],
-    "esmodules": [
+    "scripts": [
         "scripts/custom-logo.js"
     ],
     "styles": [
@@ -29,7 +29,7 @@
         }
     ],
     "url": "https://github.com/JassyEpic/fvtt-custom-logo",
-    "manifest": "https://raw.githubusercontent.com/JassyEpic/fvtt-custom-logo/main/module.json",
-    "download": "https://github.com/JassyEpic/fvtt-custom-logo.git",
+    "manifest": "https://github.com/JassyEpic/fvtt-custom-logo/releases/download/1.0.1/module.json",
+    "download": "https://github.com/JassyEpic/fvtt-custom-logo/releases/download/1.0.1/custom-logo.zip",
     "readme": "https://github.com/JassyEpic/fvtt-custom-logo/blob/main/README.md"
 }
