@@ -2,7 +2,7 @@
     "id": "custom-logo",
     "title": "Custom Logo",
     "description": "Replace the Foundry VTT logo with a custom image.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
         "minimum": "11",
         "verified": "12"
@@ -14,7 +14,7 @@
             "flags": {}
         }
     ],
-    "scripts": [
+    "esmodules": [
         "scripts/custom-logo.js"
     ],
     "styles": [
@@ -29,7 +29,7 @@
         }
     ],
     "url": "https://github.com/JassyEpic/fvtt-custom-logo",
-    "manifest": "https://github.com/JassyEpic/fvtt-custom-logo/blob/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/JassyEpic/fvtt-custom-logo/main/module.json",
     "download": "https://github.com/JassyEpic/fvtt-custom-logo.git",
     "readme": "https://github.com/JassyEpic/fvtt-custom-logo/blob/main/README.md"
 }
