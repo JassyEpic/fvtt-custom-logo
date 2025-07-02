@@ -1,0 +1,33 @@
+{
+    "id": "custom-logo",
+    "title": "Custom Logo",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "12"
+    },
+    "authors": [
+        {
+            "name": "Jassy Epic",
+            "url": "https://github.com/JassyEpic",
+            "flags": {}
+        }
+    ],
+    "scripts": [
+        "scripts/custom-logo.js"
+    ],
+    "styles": [
+        "css/clogo.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json",
+            "flags": {}
+        }
+    ],
+    "url": "https://github.com/JassyEpic/fvtt-custom-logo  project",
+    "manifest": "link to module.json",
+    "download": "github DL link"
+}
